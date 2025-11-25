@@ -34,7 +34,7 @@ Este repositório reúne todas as evidências solicitadas na **Avaliação A1**,
 **Evidência:** Link do portfólio.
 
 📎 **Portfólio GitHub:**  
-👉 *(Inserir link do seu GitHub/portfólio)*
+👉 https://github.com/jairjunior07/projeto-loja-sneakers.git
 
 Inclui:  
 - README profissional  
