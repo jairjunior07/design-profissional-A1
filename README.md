@@ -25,7 +25,8 @@ Este repositório reúne todas as evidências solicitadas na **Avaliação A1**,
 
 📎 **Evidência:**  
 *(Inserir link do Lattes ou PDF)*  
-**Arquivo:** `Curriculo_Latex.pdf`
+**Arquivo:** `![WhatsApp Image 2025-11-24 at 21 26 38](https://github.com/user-attachments/assets/4bd55a0e-2aa8-4050-b2df-73f75f709871)
+
 
 ---
 
