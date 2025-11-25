@@ -61,21 +61,3 @@ Cada repositório deve conter um README básico.
 📎 **Certificado:**  
 *(Inserir PDF do certificado ou comprovante)*  
 **Arquivo:** `Certificado_Evento.pdf`
-
----
-
-## 📂 Organização Recomendada do Repositório
-
-```plaintext
-📁 DesignProfissional_A1
-├── 📄 Curriculo_Latex.pdf
-├── 📄 Certificado_Evento.pdf
-├── 📄 Relato_Processo_Seletivo.pdf
-├── 📁 Portfolio
-│   └── README.md
-├── 📁 Repositorios_1Semestre
-│   ├── Algoritmos/
-│   ├── Fundamentos_TI/
-│   ├── Matemática/
-│   └── Comunicação/
-└── README.md  ← (este documento)# design-profissional-A1
